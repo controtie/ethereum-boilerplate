@@ -1,0 +1,15 @@
+{
+  "name": "ethereum-boilerplate",
+  "version": "1.0.0",
+  "description": "An ethereum boilerplate to help you get started!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity"
+  ],
+  "author": "controtie",
+  "license": "ISC"
+}
